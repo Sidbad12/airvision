@@ -26,7 +26,7 @@ export class ShareCardComponent {
 
   get shareText(): string {
     if (!this.data) return '';
-    return `🌍 Air quality in ${this.data.name}: AQI ${this.data.aqi} (${this.data.cat}) — checked via AirVision Global https://airvision-seven.vercel.app`;
+    return `🌍 Air quality in ${this.data.name}: AQI ${this.data.aqi} (${this.data.cat}) — checked via AirVision Global https://airvision-ms.vercel.app/`;
   }
 
   async copyLink(): Promise<void> {

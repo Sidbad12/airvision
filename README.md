@@ -6,11 +6,11 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongoosejs.com)
 [![WebGL](https://img.shields.io/badge/WebGL-globe.gl-FF6B35?style=flat-square&logo=webgl&logoColor=white)](https://globe.gl)
 [![TopoJSON](https://img.shields.io/badge/TopoJSON-topojson--client-lightgrey?style=flat-square)](https://github.com/topojson/topojson)
-[![Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://airvision-seven.vercel.app)
+[![Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://airvision-ms.vercel.app/)
 
 AirVision Global is a high-performance 3D globe platform that monitors real-time air quality (AQI) across every country on Earth — and down to India's 36 states and union territories. Built on a MEAN stack with a WebGL-powered globe renderer, it delivers a seamless, data-rich experience for tracking environmental health at global and regional scale.
 
-🔗 **Live:** [airvision-seven.vercel.app](https://airvision-seven.vercel.app)
+🔗 **Live:** [airvision-ms.vercel.app](https://airvision-ms.vercel.app/)
 
 ---
 

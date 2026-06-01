@@ -15,7 +15,7 @@ app.set('trust proxy', true);
 
 // CORS — Allowing your Vercel domains explicitly
 const ALLOWED_ORIGINS = [
-  'https://airvision-seven.vercel.app',
+  'https://airvision-ms.vercel.app',
   'https://airvision.vercel.app',
   'http://localhost:4200',
 ];
