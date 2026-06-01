@@ -96,7 +96,20 @@ airvision/
 | 201–300 | Very Unhealthy | ![#6c5ce7](https://placehold.co/12x12/6c5ce7/6c5ce7.png) `#6c5ce7` |
 | 301+ | Hazardous | ![#a8071a](https://placehold.co/12x12/a8071a/a8071a.png) `#a8071a` |
 
----
+
+
+## Screenshots
+
+<p align="center">
+  <img src="global.png" width="48%" alt="Global AQI Globe"/>
+  &nbsp;
+  <img src="globe-india-states.png" width="48%" alt="India State View"/>
+</p>
+<p align="center">
+  <img src="db-terminal.png" width="96%" alt="DB Terminal Inspector"/>
+</p>
+
+
 
 ## Contributing
 
